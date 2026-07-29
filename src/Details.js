@@ -55,9 +55,17 @@ export const logos = {
 // Enter your Personal Details here
 export const personalDetails = {
   name: "Agung Saputra",
-  tagline: "I'm a Web Developer",
+  tagline: "Backend Engineer | Fintech & Banking Systems",
   img: profile,
-  about: `Hello, I'm Agung Saputra, an enthusiastic and innovative website developer. I have a background in Computer Engineering and have demonstrated expertise in developing modern web technologies. As a Full Stack Developer, I have successfully delivered innovative solutions, including an engaging e-commerce platform. One of my recent projects involved developing an e-commerce platform for PT. Tunas Honda. In this project, I utilized technologies such as Bootstrap for responsive design, Laravel for robust backend development, and MySql for efficient database management. Additionally, I have experience in using other technologies such as React.js and Next.js to build dynamic and efficient user interfaces, as well as non-relational databases like Mongo DB to support scalability and speed in web application development. I enjoy learning new technologies and am always ready to apply my knowledge and skills to tackle new challenges. The trust placed in me is a great honor and motivation to consistently deliver the best in every project.`,
+  about: `I'm Agung Saputra, a Backend Engineer specializing in fintech and banking systems with hands-on experience developing secure, scalable, and high-availability applications.
+
+My primary expertise lies in backend architecture, RESTful API development, payment integration, QRIS merchant systems, and transactional platforms that demand reliability, security, and performance.
+
+At Bank Eka Bumi Artha, I contribute to the development of financial technology solutions including QRIS merchant platforms, internal HRIS systems, authentication services, and enterprise APIs while implementing best practices in software architecture and secure system design.
+
+Beyond backend engineering, I have experience with Laravel, CodeIgniter, Vue.js, Docker, Kubernetes, CI/CD, and cloud-native deployment. I continuously expand my knowledge in DevSecOps, observability, and infrastructure automation to build production-ready systems.
+
+I enjoy solving complex business problems, optimizing system performance, and building software that remains maintainable, secure, and scalable as it grows.`,
 };
 
 // Enter your Social Media URLs here
@@ -71,11 +79,18 @@ export const socialMediaUrl = {
 // Enter your Work Experience here
 export const workDetails = [
   {
+    Position: "Backend Engineer",
+    Company: `PT. BPR Eka Bumi Artha`,
+    Location: "Metro Lampung City",
+    Type: "Onsite",
+    Duration: "Jun 2025 - Now",
+  },
+  {
     Position: "Full Stack Web Developer",
     Company: `PT. Tunas Honda`,
     Location: "Bandar Lampung City",
     Type: "Onsite",
-    Duration: "Sep 2023 - Now",
+    Duration: "Sep 2023 - May 2025",
   },
   {
     Position: "Web Developer",
