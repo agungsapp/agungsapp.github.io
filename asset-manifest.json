@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.550699bf.css",
-    "main.js": "/static/js/main.d2dc7b62.js",
+    "main.css": "/static/css/main.3fd6fb46.css",
+    "main.js": "/static/js/main.167f2a04.js",
     "static/media/blimoto.png": "/static/media/blimoto.6c8c4d81e1468ee23416.png",
     "static/media/porto-prima-flora.jpg": "/static/media/porto-prima-flora.f20a5d00d6c85fe8bb5e.jpg",
     "static/media/porto-uns.jpg": "/static/media/porto-uns.46f7d68d2169d2a81c83.jpg",
@@ -14,15 +14,15 @@
     "static/media/porto-pertamina.jpg": "/static/media/porto-pertamina.1db236d85e3e0eeabdf6.jpg",
     "static/media/ionic.jpeg": "/static/media/ionic.f0d1a1fa1a430e16e184.jpeg",
     "static/media/codeigniter.png": "/static/media/codeigniter.fc2da6d6b0a039dcab30.png",
-    "static/media/logo.svg": "/static/media/logo.e422ca86014ad14ed818361ce3d7a2a9.svg",
-    "static/media/logo2.svg": "/static/media/logo2.b34d54a6d84876ef2b4fa457fa569c06.svg",
+    "static/media/logo.svg": "/static/media/logo.0bad282e338a9971ebc84d7e1098fd15.svg",
+    "static/media/logo2.svg": "/static/media/logo2.8748cd4b53ed338faabde58af993f30a.svg",
     "static/media/next.webp": "/static/media/next.a18c9e7731f2a95e9e51.webp",
     "index.html": "/index.html",
-    "main.550699bf.css.map": "/static/css/main.550699bf.css.map",
-    "main.d2dc7b62.js.map": "/static/js/main.d2dc7b62.js.map"
+    "main.3fd6fb46.css.map": "/static/css/main.3fd6fb46.css.map",
+    "main.167f2a04.js.map": "/static/js/main.167f2a04.js.map"
   },
   "entrypoints": [
-    "static/css/main.550699bf.css",
-    "static/js/main.d2dc7b62.js"
+    "static/css/main.3fd6fb46.css",
+    "static/js/main.167f2a04.js"
   ]
 }
